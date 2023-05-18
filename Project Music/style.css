@@ -3,14 +3,3 @@ body {
     background-size: auto;
     background-position-x: center;
 }
-
-#div1 {
-    background-color: beige;
-    height: 50px;
-    margin-top: 5px;
-    text-align: center;
-    box-shadow: black;
-    padding: 20px;
-    width: 130px;
-    height: 100px;
-}
