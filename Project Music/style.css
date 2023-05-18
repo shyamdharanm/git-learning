@@ -3,3 +3,13 @@ body {
     background-size: auto;
     background-position-x: center;
 }
+
+div.scroll {
+    margin: 4px, 4px;
+    padding: 4px;
+    width: 500px;
+    height: 110px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align: justify;
+}
