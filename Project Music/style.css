@@ -3,3 +3,8 @@ body {
     background-size: auto;
     background-position-x: center;
 }
+
+#div1 {
+    background-color: lightblue;
+    align-content: center;
+}
